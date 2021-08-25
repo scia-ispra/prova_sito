@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | SCIA</title>
+    <link>https://scia-ispra.github.io/prova_sito/project/</link>
+      <atom:link href="https://scia-ispra.github.io/prova_sito/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://scia-ispra.github.io/prova_sito/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://scia-ispra.github.io/prova_sito/project/</link>
+    </image>
+    
+    <item>
+      <title>Analisi</title>
+      <link>https://scia-ispra.github.io/prova_sito/project/analisi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://scia-ispra.github.io/prova_sito/project/analisi/</guid>
+      <description>&lt;p&gt;La funzione &lt;strong&gt;ANALISI&lt;/strong&gt; consente di estrarre e scaricare su file gli indicatori climatici di più stazioni, relativi a un periodo temporale specifico (decade, mese o anno:  per esempio,  la temperatura media di un certo mese di un certo anno). Si può inoltre visualizzare su una mappa la distribuzione spaziale ottenuta attraverso la interpolazione degli indicatori e possono essere scaricati su file anche i dati interpolati su grigliato regolare. L&amp;rsquo;accuratezza delle mappe è fortemente condizionata dalla densità dei punti di misura.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://193.206.192.214/serveranalisiutm/analisi100.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANALISI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Griglie giornaliere</title>
+      <link>https://scia-ispra.github.io/prova_sito/project/griglie-giornaliere/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://scia-ispra.github.io/prova_sito/project/griglie-giornaliere/</guid>
+      <description>&lt;p&gt;La funzione &lt;strong&gt;GRIGLIE GIORNALIERE&lt;/strong&gt; consente di scaricare e di visualizzare su mappe i dati interpolati su grigliato regolare di temperatura minima e massima (alla risoluzione di 5 km) e precipitazione (alla risoluzione di 10 km) giornaliere.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://193.206.192.214/serveranalisiutm/analisi100.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANALISI&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proiezioni del clima in Italia</title>
+      <link>https://scia-ispra.github.io/prova_sito/project/clima-futuro/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://scia-ispra.github.io/prova_sito/project/clima-futuro/</guid>
+      <description>&lt;p&gt;La funzione &lt;strong&gt;Proiezioni del clima in Italia&lt;/strong&gt; consente di estrarre e scaricare su file le serie temporali di indicatori climatici di una o più stazioni e di visualizzare il loro andamento attraverso grafici a due dimensioni,  scegliendo la variabile, l&amp;rsquo;intervallo temporale e il passo (giorno, decade, mese o anno).&lt;/p&gt;
+&lt;p&gt;[ ]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Serie temporali</title>
+      <link>https://scia-ispra.github.io/prova_sito/project/serie-temporali/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://scia-ispra.github.io/prova_sito/project/serie-temporali/</guid>
+      <description>&lt;p&gt;La funzione &lt;strong&gt;SERIE TEMPORALI&lt;/strong&gt; consente di estrarre e scaricare su file le serie temporali di indicatori climatici di una o più stazioni e di visualizzare il loro andamento attraverso grafici a due dimensioni,  scegliendo la variabile, l&amp;rsquo;intervallo temporale e il passo (giorno, decade, mese o anno).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://193.206.192.214/servertsutm/serietemporali100.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serie decadali mensili annuali &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://193.206.192.214/servertsdailyutm/serietemporalidaily101.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serie giornaliere&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stazioni</title>
+      <link>https://scia-ispra.github.io/prova_sito/project/stazioni/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://scia-ispra.github.io/prova_sito/project/stazioni/</guid>
+      <description>&lt;p&gt;La funzione STAZIONI consente di visualizzare su una mappa dell&amp;rsquo;Italia le stazioni meteorologiche delle diverse reti da cui hanno origine gli indicatori climatici e di visualizzare o scaricare su file alcuni metadati (coordinate della stazione, variabili osservate, ecc.).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://193.206.192.214/serverstazioni/stazioni100.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serie decadali mensili annuali &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://193.206.192.214/serverstazionidaily/stazioni101.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serie giornaliere&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
